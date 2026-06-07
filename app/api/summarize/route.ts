@@ -35,6 +35,7 @@ RULES:
 - Use a short paragraph (2–5 sentences)
 - Make it simple and easy to understand
 - Focus only on the main idea
+- IMPORTANT: You MUST respond in the SAME LANGUAGE as the input text (if Indonesian, answer in Indonesian; if English, answer in English)
 
 TEXT:
 ${text}
